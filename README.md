@@ -12,7 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# About Me
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/hunterbaxter)](https://linkedin.com/in/hunterbaxter/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hunter.c.baxter@vanderbilt.edu)
+
+
+
+# About Me :wave:
 
 I am a graduate student at [Vanderbilt University](https://en.wikipedia.org/wiki/Vanderbilt_University) seeking software engineering roles that start in January 2024.
 
